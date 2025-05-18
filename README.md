@@ -6,4 +6,4 @@ Python toolkit for simulating and analyzing the Izhikevich neuron model, a compu
 - Frequency-current curves to classify neuronal excitability
 - Visualization tools for voltage traces, recovery dynamics, and phase-space analysis
   
-**WORK IN PROGRESS...**
+**Work in progress...**
